@@ -12,21 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u3_img {
+#u10_img {
   position:absolute;
   left:0px;
   top:0px;
   width:414px;
   height:736px;
 }
-#u3 {
+#u10 {
   position:absolute;
   left:0px;
   top:-20px;
   width:414px;
   height:736px;
 }
-#u4 {
+#u11 {
   position:absolute;
   left:2px;
   top:360px;
@@ -34,7 +34,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u5 {
+#u12 {
   position:absolute;
   left:0px;
   top:310px;
