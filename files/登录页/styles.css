@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:375px;
+  width:414px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -16,30 +16,30 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:375px;
-  height:667px;
+  width:414px;
+  height:736px;
 }
 #u12 {
   position:absolute;
   left:0px;
-  top:0px;
-  width:375px;
-  height:667px;
+  top:-20px;
+  width:414px;
+  height:736px;
 }
 #u13 {
   position:absolute;
   left:2px;
-  top:326px;
-  width:371px;
+  top:360px;
+  width:410px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u14 {
   position:absolute;
-  left:31px;
-  top:323px;
-  width:305px;
-  height:66px;
+  left:0px;
+  top:310px;
+  width:414px;
+  height:118px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
